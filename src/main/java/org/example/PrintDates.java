@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class Main {
+public class PrintDates {
 
     public static void main(String[] args) {
         System.out.println("\nThis program prints all dates between two given years that remains the same, " +
